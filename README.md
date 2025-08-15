@@ -1,78 +1,24 @@
-🍕 Pizza Sales Report Dashboard
-📌 Project Overview
+# 🍕 Pizza Sales Report Dashboard
 
-This project is an interactive data visualization dashboard that provides deep insights into pizza sales performance.
-The dashboard analyzes total revenue, orders, sales trends, and category-wise performance, enabling better business decisions.
+## 📌 Project Title
+**Pizza Sales Report Dashboard** – A visually appealing and interactive Power BI dashboard built to track and analyze pizza sales data.
 
-It was built to present key KPIs like total revenue, total orders, average order value, and average pizzas sold per order.
+## 📝 Short Description
+This project focuses on providing **deep insights** into pizza sales performance.  
+It highlights **key business KPIs** such as total revenue, total orders, average order value, and average pizzas sold per order.  
+With its interactive filters and charts, it enables **data-driven decision-making** for improving sales and customer satisfaction.
 
-📊 Features
+## 🛠 Tech Stack
+- 📊 **Power BI** – For building the interactive dashboard and visualizations  
+- 📄 **Excel/CSV** – For data collection, cleaning, and preparation  
+- 🧮 **DAX** – For creating calculated measures, KPIs, and custom insights  
 
-Key Metrics Display
+## ⭐ Features
+- 📈 **Key Metrics Display**: Revenue, Orders, Avg. Order Value, Total Pizza Sales, Avg. Pizzas per Order  
+- 🗂 **Revenue Breakdown**: By Pizza Category (Classic, Supreme, Chicken, Veggie) and Pizza Size (S, M, L)  
+- 🏆 **Top & Bottom Performers**: Identify best-selling and least-selling pizzas  
+- 🎯 **Interactive Filters**: View data by category, size, or specific pizza name  
+- 📊 **Trends & Patterns**: Understand sales patterns to support better decision-making  
 
-Total Revenue: 817.86K
-
-Total Orders: 21K
-
-Average Order Value: 38.31
-
-Total Pizza Sales: 50K
-
-Average Pizza Sale per Order: 2.32
-
-Revenue Analysis
-
-By Pizza Category (Classic, Supreme, Chicken, Veggie)
-
-By Pizza Size (S, M, L)
-
-Top & Bottom Selling Pizzas
-
-Top performers: The Barbecue Chicken Pizza, The California Chicken Pizza
-
-Low performers: The Brie Carre Pizza, The Green Garden Pizza
-
-Interactive Filters
-
-Filter data by category, size, and pizza name
-
-🛠 Tools & Technologies
-
-Power BI – For data modeling and visualization
-
-Excel/CSV – For data source preparation
-
-DAX – For calculated measures and KPIs
-
-📂 Project Structure
-📦 Pizza-Sales-Dashboard
- ┣ 📜 README.md          # Project Documentation
- ┣ 📂 Data               # Raw & cleaned datasets
- ┣ 📂 Dashboard          # Power BI .pbix file
- ┗ 📂 Images             # Dashboard screenshots
-
-📷 Dashboard Preview
-
-🚀 How to Use
-
-Open the Power BI file (.pbix)
-
-Explore and interact with the filters, charts, and KPIs
-
-📈 Insights
-
-Classic pizzas contribute the highest revenue share (~26.9%)
-
-Small size pizzas generate 45% of total revenue
-
-Average order contains ~2.3 pizzas
-
-Significant scope to improve sales of Brie Carre and Green Garden pizzas
-
-Screenshot
-Here how dashboard look like
-<img width="1381" height="750" alt="image" src="https://github.com/user-attachments/assets/1443ea2f-39e5-4e5f-a8e0-a833f94aa290" />
-
-📄 License
-
-This project is licensed under the MIT License.
+## 📷 Screenshot
+![Pizza Sales Dashboard](./Images/dashboard-screenshot.png)
