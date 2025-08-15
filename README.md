@@ -21,4 +21,4 @@ With its interactive filters and charts, it enables **data-driven decision-makin
 - 📊 **Trends & Patterns**: Understand sales patterns to support better decision-making  
 
 ## 📷 Screenshot
-![Pizza Sales Dashboard](./Images/dashboard-screenshot.png)
+![Pizza Sales Dashboard]([./Images/dashboard-screenshot.png](https://github.com/Sudarshans2004/Pizza-Sales/blob/main/Dashboard.pdf))
