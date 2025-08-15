@@ -69,6 +69,10 @@ Average order contains ~2.3 pizzas
 
 Significant scope to improve sales of Brie Carre and Green Garden pizzas
 
+Screenshot
+Here how dashboard look like
+<img width="1381" height="750" alt="image" src="https://github.com/user-attachments/assets/1443ea2f-39e5-4e5f-a8e0-a833f94aa290" />
+
 📄 License
 
 This project is licensed under the MIT License.
