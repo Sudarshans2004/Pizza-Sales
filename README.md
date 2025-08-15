@@ -55,11 +55,6 @@ DAX – For calculated measures and KPIs
 
 🚀 How to Use
 
-Clone the repository
-
-git clone https://github.com/your-username/pizza-sales-dashboard.git
-
-
 Open the Power BI file (.pbix)
 
 Explore and interact with the filters, charts, and KPIs
